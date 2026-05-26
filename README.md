@@ -7,12 +7,12 @@
 
 - 🟫; Front-End
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 - ⬛; Back-End
 
-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 - ⬜; Plataformas de Desarrollo
 
-- [![My Skills](https://skillicons.dev/icons?i=vscode )](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode )](https://skillicons.dev)
