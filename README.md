@@ -3,7 +3,7 @@
 - 🟨; Grupo de Taller: 7.1
 - 🟩; Escuela: E.E.S.T N°1
 - 🟦; Buenos Aires, Esteban Echeverria
-- 🟪; Email; martinmiguel.clemente@gmail.com
+- 🟪; Email: martinmiguel.clemente@gmail.com
 
 - 🟫; Front-End
 
