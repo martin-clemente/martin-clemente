@@ -5,14 +5,22 @@
 - 🟦 Buenos Aires, Esteban Echeverria
 - 🟪 Email: martinmiguel.clemente@gmail.com
 
-- 🟫 Front-End
+## 💻 Languages
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,python,javascript)](https://skillicons.dev)
 
-- ⬛ Back-End
+## ⚙️ Frameworks
 
-  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,bootstrap)](https://skillicons.dev)
 
-- ⬜ Plataformas de Desarrollo
+## 🔌 IoT & Hardware
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode )](https://skillicons.dev)
+[![IoT](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+## 🛠️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
+## 🔗 Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/martinclemente/)
