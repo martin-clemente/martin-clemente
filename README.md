@@ -1,9 +1,14 @@
-- 🟥 Nombre: Martin Clemente
-- 🟧 Curso: 7°1
-- 🟨 Grupo de Taller: 7.1
-- 🟩 Escuela: E.E.S.T N°1
-- 🟦 Buenos Aires, Esteban Echeverria
-- 🟪 Email: martinmiguel.clemente@gmail.com
+<div align="center">
+
+Martin Clemente
+Estudiante de último año de Técnico en Informática Personal y Profesional
+
+🇦🇷 Argentina
+
+
+
+
+</div>
 
 ## 💻 Languages
 
