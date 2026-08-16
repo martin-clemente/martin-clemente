@@ -1,12 +1,8 @@
 <div align="center">
 
-Martin Clemente
-Estudiante de último año de Técnico en Informática Personal y Profesional
-
+##Martin Clemente
+Soy Martín Clemente, estudiante de último año de Técnico en Informática Personal y Profesional, con interés en el desarrollo de soluciones tecnológicas que integren hardware, software, Internet de las Cosas (IoT) y desarrollo web.
 🇦🇷 Argentina
-
-
-
 
 </div>
 
