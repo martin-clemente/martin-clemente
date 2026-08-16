@@ -1,4 +1,4 @@
-# 👋 Hola, soy Martin Clemente
+# 👋 Hola, soy Martín Clemente
 
 ### 💻 Estudiante de Técnico en Informática Personal y Profesional
 
@@ -16,35 +16,21 @@ Mi objetivo es continuar desarrollando experiencia mediante proyectos reales, fo
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 💻 Lenguajes
 
-### 🌐 Desarrollo Web
+[![Languages](https://skillicons.dev/icons?i=html,css,python,javascript)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+## ⚙️ Frameworks
 
-### 🐍 Programación & Backend
+[![Frameworks](https://skillicons.dev/icons?i=django,bootstrap)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+## 🔌 IoT & Hardware
 
-### 📡 IoT & Electrónica
+[![IoT](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif)
+## 🛠️ Herramientas
 
-### 🗄️ Bases de Datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite)
-
-### 🔧 Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -62,9 +48,8 @@ Mi objetivo es continuar desarrollando experiencia mediante proyectos reales, fo
 
 ## 🌐 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/martinclemente/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/martinclemente/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/martin-clemente)
 
 ---
 
@@ -72,8 +57,8 @@ Mi objetivo es continuar desarrollando experiencia mediante proyectos reales, fo
 
 |                                                   Estadísticas                                                  |                                                  Lenguajes más utilizados                                                  |
 | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=default) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-clemente\&show_icons=true\&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-clemente\&layout=compact\&theme=default) |
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU-USUARIO\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=martin-clemente\&style=flat-square)
