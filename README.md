@@ -1,10 +1,14 @@
-<h1 align="center">👋 Hola, soy Martín Clemente</h1>
-
-<p align="center">
-  <img src="assets/retro-computer.gif" width="400">
-</p>
-
-### 💻 Estudiante de Técnico en Informática Personal y Profesional
+<table>
+  <tr>
+    <td>
+      <img src="assets/MSDOS.gif" width="220">
+    </td>
+    <td>
+      <h1>👋 Hola, soy Martín Clemente</h1>
+      <h3>💻 Estudiante de Técnico en Informática Personal y Profesional</h3>
+    </td>
+  </tr>
+</table>
 
 ---
 
