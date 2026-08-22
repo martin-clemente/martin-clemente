@@ -1,4 +1,8 @@
-# 👋 Hola, soy Martín Clemente
+<h1 align="center">👋 Hola, soy Martín Clemente</h1>
+
+<p align="center">
+  <img src="assets/retro-computer.gif" width="400">
+</p>
 
 ### 💻 Estudiante de Técnico en Informática Personal y Profesional
 
