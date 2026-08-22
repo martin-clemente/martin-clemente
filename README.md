@@ -63,9 +63,10 @@ Mi objetivo es continuar desarrollando experiencia mediante proyectos reales, fo
 
 ## 📊 Estadísticas de GitHub
 
-|                                                   Estadísticas                                                  |                                                  Lenguajes más utilizados                                                  |
-| :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-clemente\&show_icons=true\&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-clemente\&layout=compact\&theme=default) |
+<p align="center">
+  <img src="./profile/stats.svg" height="180">
+  <img src="./profile/top-langs.svg" height="180">
+</p>
 
 ---
 
