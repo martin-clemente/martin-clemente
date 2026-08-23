@@ -2,6 +2,10 @@
   Hi, I'm Martín Clemente 👋
 </h1>
 
+<p align="center">
+  Information Technology Student
+</p>
+
 ---
 
 ## 👨‍💻 About Me
