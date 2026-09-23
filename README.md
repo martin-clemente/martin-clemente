@@ -10,13 +10,16 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year student pursuing a **Technical Degree in Information Technology**, with an interest in software development, web technologies, Internet of Things (IoT), and cybersecurity.
+I am a final-year student pursuing a **Technical Degree in Personal and Professional Informatics**, with a focus on software development, web technologies, Internet of Things (IoT), and cybersecurity.
 
-I enjoy turning ideas into functional projects by combining **programming, web development, hardware, and problem-solving**.
+I enjoy turning ideas into functional projects by combining **software, web development, hardware, and problem-solving**. I’m particularly interested in building practical solutions that connect digital systems with the physical world.
 
-I have experience working with technologies such as **Python, Django, JavaScript, HTML, CSS, Git, and GitHub**, while also developing projects involving **ESP32, Arduino, and IoT**.
+I have experience working with **Python, Django, JavaScript, HTML, CSS, SQL, Git, and GitHub**, as well as **ESP32, Arduino, and IoT technologies**.
 
-My goal is to gain experience through real-world projects, strengthen my technical skills, and continue growing professionally in the technology field.
+Some of my projects explore areas such as **IoT, environmental monitoring, web applications, automation, and AI-assisted solutions**.
+
+I’m currently focused on gaining real-world experience, strengthening my technical skills, and building projects that reflect what I’m learning as I transition from technical education into the technology industry.
+
 
 ---
 
